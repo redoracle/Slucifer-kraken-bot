@@ -1,1 +1,1 @@
-# Slucifer-kraken-bot
+# slucifer-kraken-bot
